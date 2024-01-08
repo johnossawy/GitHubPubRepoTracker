@@ -42,9 +42,3 @@ This Python script provides a robust solution for tracking GitHub repositories. 
 ## Limitations
 - Rate limiting by GitHub's API may require adjusting the sleep timer in the script.
 - Handles only public and private repositories (no distinctions for forks, gists, etc.).
-
-## Contributing
-Feel free to fork this repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
